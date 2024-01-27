@@ -1,0 +1,206 @@
+.h{
+    height: 1px;
+    width: 90%;
+    background-color: #3D3D3D;
+    border: none;
+    margin: 3rem;
+}
+
+.graos{
+    display: flex;
+    justify-content: center;
+}
+
+.FAIXA1{
+    font-family: 'Encode Sans Semi Expanded', sans-serif;
+    color: #000;
+    background-color: #FEBE10;
+    font-size: 1.375rem; 
+    height: 3.9375rem; 
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header{
+    margin: 2.70rem;
+    font-family: roboto;
+    font-size: 1.56119rem; 
+    display: grid;  
+    text-align: center;
+
+    .amarelo{color: #FEBE10;}
+    .ciano{color: #00CFB9;}
+}
+
+.BTN1{
+    font-weight: 700; 
+    font-size: 1.01288rem; 
+    background-color: #FEBE10;
+
+    cursor: pointer;
+    width: 13.5rem;
+    height: 3.47225rem; 
+    border: 0px;
+    margin-top: 2.87rem;
+}
+
+body{
+    color: #fff;
+    background-color: #000;
+}
+
+.G1{
+    font-family:roboto;
+    .produto{font-size: 1.125rem;
+        text-transform: uppercase;
+        font-weight: 700;
+        line-height: 161%;}
+    .amarelo{color: #FEBE10;
+    display: inline;}
+    .ciano{color: #00CFB9;
+    display: inline;}
+
+    margin: 2.5rem;
+    line-height: 161%; 
+    font-size: 1rem; 
+    /* background-color: rgb(38, 50, 50); */
+
+    .B1{
+        border: 1px solid #3D3D3D;
+        width: 20%;
+        margin: 1rem;
+        padding: 2rem;}
+    .B2{
+        border: 1px solid #3D3D3D;
+        width: 20%;
+        margin: 1rem;
+        padding: 2rem;}
+    .B3{
+        border: 1px solid #3D3D3D;
+        width: 20%;
+        margin: 1rem;
+        padding: 2rem;}
+}
+
+.G2{
+    
+    font-family:roboto;
+    .inteamarela{
+        padding-bottom: 1.60rem;
+    }
+
+    .fogo{
+        padding-top: 5.19rem;
+        padding-bottom: 1.2rem;
+    }
+
+    .BTN2{
+        margin: 1rem;
+
+        font-weight: 700; 
+        font-size: 1.01288rem; 
+        background-color: #FEBE10;
+
+        cursor: pointer;
+        width: 13.88888rem;
+        height: 3.47225rem; 
+        border: 0px;
+    }
+    
+    .naosabe{
+        font-size: 1.375rem; 
+        text-transform: uppercase; 
+        font-weight: 700; 
+    }
+    /* background-color: rgb(44, 44, 65); */
+
+    display: grid;
+    text-align: center;
+}
+
+.G3{
+    .passo{
+    text-align: center;   
+    font-size: 1.5625rem;
+    font-weight: 700;
+    line-height: 113.5%; 
+    text-transform: uppercase;
+    }
+    font-family:roboto;
+    /* background-color: rgb(44, 69, 44); */
+    padding: 7rem;
+
+    .umamarelo{
+        color: #FEBE10;
+        display: inline;
+        font-size: 3rem;
+        font-weight: 700;
+
+    }
+
+    .B11{
+        border: 1px solid #3D3D3D; 
+        width: 20%;
+        padding: 2rem;
+    }
+    .B22{
+        border: 1px solid #3D3D3D;
+        width: 20%;
+        padding: 2rem;
+    }
+    .B33{
+        border: 1px solid #3D3D3D;
+        width: 20%;
+        padding: 2rem;
+    }
+}
+
+
+footer{
+
+    .intebranca{
+        color: #fff;
+        padding-bottom: 1.19rem;
+    }
+
+    /* background-color: rgb(33, 52, 52); */
+    font-family:roboto;
+    font-weight: 500; 
+    background-color: #fff;
+    color: #000;
+
+    padding-top: 6.44rem;
+    padding-left: 3.56rem;
+    padding-bottom: 3.25rem;
+
+    .ajuda{
+    font-weight: 800; 
+    color: #000;
+    font-size: 1.5rem;
+    }
+
+    .BTNFOOTER{
+        background-color: #000;
+        color: #FEBE10;
+
+        font-size: 0.91156rem; 
+        cursor: pointer;
+        width: 13.5rem;
+        height: 3.47225rem; 
+        border: 0px;
+    }
+
+   
+}
+
+    .contentfooter, .reuniao{
+        display: inline-block;
+    }
+
+    .reuniao{
+        width: 50px;
+        height: 50px;
+        
+    }
